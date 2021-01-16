@@ -1,0 +1,4 @@
+En los 2 proyectos
+en el 1 primer proyecto se visualiza porque es publico
+y en el 2 proyecto es privado que es por eso no se
+encuentra la pagina
